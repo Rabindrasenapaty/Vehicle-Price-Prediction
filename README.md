@@ -1,6 +1,6 @@
 # Vehicle-Price-Prediction
-![Vehicle Price Prediction](![CAR](https://github.com/user-attachments/assets/3250d6bd-a9df-4a57-bbb2-7e68fc2b8c1a)
-)
+![CAR](https://github.com/user-attachments/assets/3250d6bd-a9df-4a57-bbb2-7e68fc2b8c1a)
+
 This project aims to predict car prices based on various features using machine learning. It utilizes a RandomForestRegressor model to forecast car prices and employs Streamlit for interactive web deployment.
 
 
